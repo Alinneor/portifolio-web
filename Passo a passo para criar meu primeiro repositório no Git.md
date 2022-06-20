@@ -8,4 +8,4 @@
 6. Usei o comando git status para verificar se a pasta foi criada
 7. Usei o comando git add .
 8. Usei o comando git commit -m "colocar a identificação do commit"
-9. Usei o comando git push origin main
+9. Usei o comando git push origin main.
